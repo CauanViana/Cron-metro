@@ -10,10 +10,10 @@ Tecnologias Utilizadas
 
 Possíveis Melhorias Futuras
 
-Salvar Marcas de Tempo Localmente: Implementar uma funcionalidade que permita salvar as marcas de tempo localmente usando localStorage para que o usuário possa acessar os tempos marcados após recarregar a página.
+ - Salvar Marcas de Tempo Localmente: Implementar uma funcionalidade que permita salvar as marcas de tempo localmente usando localStorage para que o usuário possa acessar os tempos marcados após recarregar a página.
 
-Adicionar Sons de Alerta: Incorporar sons de alerta para quando o cronômetro for pausado, reiniciado ou quando uma marca de tempo for adicionada.
+ - Adicionar Sons de Alerta: Incorporar sons de alerta para quando o cronômetro for pausado, reiniciado ou quando uma marca de tempo for adicionada.
 
-Implementar Modo Noturno: Adicionar um botão para alternar entre o modo claro e escuro, proporcionando uma melhor experiência para o usuário em diferentes ambientes de iluminação.
+ - Implementar Modo Noturno: Adicionar um botão para alternar entre o modo claro e escuro, proporcionando uma melhor experiência para o usuário em diferentes ambientes de iluminação.
 
-Melhorar a Acessibilidade: Incluir melhorias na acessibilidade, como navegação por teclado, suporte a leitores de tela, e contraste de cores adequado.
+ - Melhorar a Acessibilidade: Incluir melhorias na acessibilidade, como navegação por teclado, suporte a leitores de tela, e contraste de cores adequado.
